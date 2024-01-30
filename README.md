@@ -3,7 +3,7 @@
 
 動作環境
 
-Windows11 23H2
+Windows11 23H2 & Windows10 22H2
 
 Python 3.11.3
 
